@@ -1,0 +1,31 @@
+// Poistin sellaisia osia tulostuksesta mitkä eivät liity tähän kurssiin
+// Sen vuoksi on oudon näköinen puu
+├── Desktop
+├── Documents
+├── Downloads
+├── Music
+├── Pictures
+├── Public
+├── Templates
+├── Videos
+├── Z-drive
+├── kurssit
+│   └── ot2019
+│       └── viikko1
+│           └── Unicafe
+│               ├── pom.xml
+│               └── src
+│                   ├── main
+│                   │   └── java
+│                   │       └── com
+│                   │           └── mycompany
+│                   │               └── unicafe
+│                   │                   ├── Kassapaate.java
+│                   │                   ├── Maksukortti.java
+│                   │                   └── Paaohjelma.java
+│                   └── test
+│                       └── java
+│                           └── com
+│                               └── mycompany
+│                                   └── unicafe
+│                                       └── MaksukorttiTest.java
