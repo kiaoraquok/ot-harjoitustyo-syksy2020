@@ -6,9 +6,9 @@ Kurssin _Ohjelmistotekniikka_ deadlinet ovat __tiistaisin__.
 
 ### Viikko 1
 
-[gitlog.txt](https://github.com/kiaoraquok/ot-harjoitustyo/blob/master/viikko1/gitlog.txt)
+[gitlog.txt](https://github.com/kiaoraquok/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
-[komentorivi.txt](https://github.com/kiaoraquok/ot-harjoitustyo/blob/master/viikko1/komentorivi.txt)
+[komentorivi.txt](https://github.com/kiaoraquok/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
 ### Viikko 2
 
