@@ -119,12 +119,14 @@ public class KassapaateTest {
         assertThat(kassapaate.edullisiaLounaitaMyyty(), is(1));
     }
 
+    @Test
     public void kortinRahamaaraEiMuutuJosKortillaLiianVahanRahaaEdulliseenLounaaseen() {
         kortti = new Maksukortti(200);
         kassapaate.syoEdullisesti(kortti);
         assertThat(kortti.saldo(), is(200));
     }
 
+    @Test
     public void myytyjenLounaidenMaaraEiMuutuJosKortillaLiianVahanRahaaEdulliseenLounaaseen() {
         kortti = new Maksukortti(200);
         kassapaate.syoEdullisesti(kortti);
@@ -164,13 +166,15 @@ public class KassapaateTest {
         kassapaate.syoMaukkaasti(kortti);
         assertThat(kassapaate.maukkaitaLounaitaMyyty(), is(1));
     }
-
+    
+    @Test
     public void kortinRahamaaraEiMuutuJosKortillaLiianVahanRahaaMaukkaaseenLounaaseen() {
         kortti = new Maksukortti(300);
         kassapaate.syoMaukkaasti(kortti);
         assertThat(kortti.saldo(), is(300));
     }
 
+    @Test
     public void myytyjenLounaidenMaaraEiMuutuJosKortillaLiianVahanRahaaMaukkaaseenLounaaseen() {
         kortti = new Maksukortti(300);
         kassapaate.syoMaukkaasti(kortti);
