@@ -1,6 +1,7 @@
 # Ohjelmistotekniikka
 
-[Tuntikirjanpito](https://github.com/kiaoraquok/ot-harjoitustyo/blob/master/topic/dokumentaatio/tyoaikakirjanpito.md)
+[Vaatimusmäärittely](https://github.com/kiaoraquok/ot-harjoitustyo/blob/master/connectfour/dokumentaatio/vaatimusmäärittely.md)
+[Tuntikirjanpito](https://github.com/kiaoraquok/ot-harjoitustyo/blob/master/connectfour/dokumentaatio/tyoaikakirjanpito.md)
 
 ## Tehtävät
 
