@@ -1,6 +1,6 @@
 # Ohjelmistotekniikka
 
-Kurssin _Ohjelmistotekniikka_ deadlinet ovat __tiistaisin__.
+[Tuntikirjanpito](https://github.com/kiaoraquok/ot-harjoitustyo/blob/master/topic/dokumentaatio/tyoaikakirjanpito.md)
 
 ## Tehtävät
 
