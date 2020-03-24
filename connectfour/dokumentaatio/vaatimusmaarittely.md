@@ -8,6 +8,12 @@ Pelissä on normaalikäyttäjät.
 
 ## Perusversion tarjoama toiminnallisuus
 Perusversio keskittyy toimivan pelin kehittämiseen
+- Aloitusnäkymä, mistä voi nappia painamalla aloittaa pelin
+- Pelinäkymä, missä on aluksi tyhjä ruudukko
+- Pelaaja voi asettaa ruudukkoon nappulansa, minkä jälkeen vuoro siirtyy toiselle pelaajalle
+- Peli ilmoittaa aina kumman pelaajan vuoro on
+- Pelaajien nappulat erotetaan värein
+- Peli ilmoittaa, kun joku on voittanut tai peli on päättynyt tasapeliin
 
 ## Jatkokehitysideoita
 - Käyttäjänimien syöttäminen, tallentaminen ja käyttäjäkohtaiset tilastot
