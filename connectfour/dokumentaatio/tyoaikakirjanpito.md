@@ -1,9 +1,9 @@
 # Työaikakirjanpito
 
-| päivä | aika (*t*) | mitä tein |
+| päivä | tunnit | mitä tein |
 | :----:|:----------:| :---------|
 | 10.10.| 2          | vaatimusmäärittelyä
 |       |            |
-| yht.  |            |
+| yht.  | 2          |
 
 <!--- :----: palkeilla voi säätää taulukon alignmenttia --->
